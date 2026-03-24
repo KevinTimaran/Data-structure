@@ -1,0 +1,9 @@
+{
+  "name": "mi-restaurante",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "mi-restaurante-backend",
+  "version": "0.1.0",
+  "private": true,
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "mi-restaurante-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"No frontend framework configured yet\""
+  }
+}
